@@ -1,0 +1,7 @@
+{
+  "type": "AppSource App",
+  "templateUrl": "https://github.com/businesscentralapps/tmpfOabYt-AppSource@main",
+  "useCompilerFolder": false,
+  "doNotPublishApps": false,
+  "MicrosoftTelemetryConnectionString": ""
+}
